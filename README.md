@@ -236,13 +236,23 @@ Atuo em projetos de alto impacto, aplicando rigor analítico desde a modelagem d
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jonas-oliveira-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195px" />
+        <img src="https://github-stats-extended.vercel.app/api?username=jonas-oliveira-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-oliveira-coder&layout=compact&theme=radical" alt="Top Languages" height="195px" />
+        <img src="https://streak-stats.demolab.com/?user=jonas-oliveira-coder&theme=radical" alt="GitHub Streak Stats" height="195px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jonas-oliveira-coder&layout=compact&theme=radical" alt="Top Languages" height="195px" />
       </td>
     </tr>
   </table>
+  
+  <br/>
+  
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonas-oliveira-coder&theme=radical" alt="GitHub Commit Activity Graph" width="100%" />
 </div>
 
 ---
